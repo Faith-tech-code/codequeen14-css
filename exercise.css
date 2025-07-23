@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+}
+body{
+    background-color: white;
+    margin: auto;
+
+}
+h1{
+    text-align: center;
+    padding-bottom: 20PX;
+}
+.Circular-Image {
+  display: block;  
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%;
+}
+p{
+    text-align: center;
+    word-break: break-all;
+}
+h3{
+    text-align: center;
+    color: blue;
+    padding-top: 30px;
+}
+.avator{
+    width: 100px;
+    border-radius: 50px;
+    margin: 20px;
+
+}
