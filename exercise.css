@@ -48,3 +48,21 @@ h2{
     text-align: center;
     color: green;
 }
+body{
+    background-image: url(pandas.webp);
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+th, td {
+    background-color: azure;
+    
+}
+th{
+    text-align: center;
+}
+.text-align{
+    text-align: left;
+}
