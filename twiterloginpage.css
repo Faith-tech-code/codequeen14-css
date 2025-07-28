@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: brown;
+    margin-top: 200px;
+    justify-content: center;
+    /* Horizontal alignment */
+    align-items: center;
+    /* Vertical alignment */
+}
+
+.blue {
+    background-color: #1DA1F2;
+    width: 250px;
+    height: 400px;
+    float: left;
+
+
+}
+
+.Logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 60px;
+
+
+}
+
+.white {
+    width: 350PX;
+    height: 400PX;
+    background-color: white;
+    float: right;
+
+}
+
+.xlogo {
+    width: 40px;
+    height: 20px;
+    margin-top: 40px;
+    margin-left: 150px;
+    align-items: center;
+}
+
+.Circular-Image {
+    display: block;
+    margin: 5px 60px
+}
+
+.fat {
+    width: 200px;
+    height: 30px;
+    margin: 5px 20px;
+    text-align: center;
+    border-radius: 20px;
+    border: gray 1px solid;
+    margin-left: 80px;
+}
+
+.a {
+    text-align: center;
+}
+
+.next {
+    background-color: black;
+    color: white;
+}
+
+.twit {
+    width: 150px;
+    height: 50px;
+    margin: 5px 60px
+}
+
+.class {
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 18px;
+}
+
+.phone {
+    margin-left: 95px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 2px solid #1DA1F2;
+}
+
+.twit {
+    border-radius: 10px;
+    color: #1DA1F2;
+    font-size: 40px;
+}
+.group{
+    margin-left: 95px;
+    border: 1px solid #1DA1F2;
+}
