@@ -1,7 +1,8 @@
-*{
+* {
     margin: auto;
 }
-.mother{
+
+.mother {
     margin: auto;
     border: 2px groove white;
     border-radius: 8px;
@@ -10,59 +11,92 @@
 
 
 }
-h1{
+
+h1 {
     text-align: center;
     padding-bottom: 20PX;
 }
+
 .Circular-Image {
-  display: block;  
-  width: 200px; 
-  height: 200px; 
-  border-radius: 50%;
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
-p{
+
+p {
     text-align: center;
-    word-break: break-all;
+
     margin-bottom: 1em;
     padding-top: 10px;
 
 }
-h3{
+
+h3 {
     text-align: center;
     color: blue;
     padding-top: 30px;
 }
-.second{
- box-shadow: 2px 2px lightblue;
- margin: auto;
- border: 2px groove white;
- border-radius: 8px;
- margin-right: 400px;
- margin-left: 400px;
- padding-bottom: 20px;
- margin-bottom: 20px;
- padding-top: 20PX;
- background-color: antiquewhite;
+
+.second {
+    box-shadow: 2px 2px lightblue;
+    margin: auto;
+    border: 2px groove white;
+    border-radius: 8px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    padding-top: 20PX;
+    background-color: antiquewhite;
 }
-h2{
+
+h2 {
     text-align: center;
     color: green;
 }
-body{
+
+body {
     background-image: url(pandas.webp);
 }
-table, th, td{
+
+table,
+th,
+td {
     border: 1px solid black;
     border-collapse: collapse;
     border-radius: 10px;
 }
-th, td {
+
+th,
+td {
     background-color: azure;
-    
+
 }
-th{
+
+th {
     text-align: center;
 }
-.text-align{
+
+.text-align {
     text-align: left;
+}
+
+.div1 {
+    width: 900px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 5px;
+    border-style: solid;
+    background-color: lightcyan;
+    border-color: lightcyan;
+}
+.DIV2{
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+.p2{
+    font-size: 25px;
+    color:green;
 }
